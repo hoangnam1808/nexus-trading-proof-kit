@@ -10,7 +10,7 @@ Current demo:
 - Nexus zkVM guest computes net-R summary
 - host proves and verifies the execution
 
-Repo: <PASTE_GITHUB_LINK_HERE>
+Repo: https://github.com/hoangnam1808/nexus-trading-proof-kit
 
 This is early, but I think verifiable performance/journal calculations are a practical use case for Nexus: not trading signals, just proof that the math behind a reported journal summary is correct.
 
